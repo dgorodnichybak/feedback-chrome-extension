@@ -1,0 +1,20 @@
+#ext_wrapper {
+    color: #ffffff;
+    font: 12px arial;
+}
+#ext_adyax_logo {
+    min-height: 80px;
+    background-image: url(http://feedback.adyax.com/images/logo.png);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+#ext_description_field {
+    width:98%;
+    height:70px;
+}
+#ext_links {
+    text-align:center;
+}
+#ext_links a {
+    color: #ffffff;
+}
